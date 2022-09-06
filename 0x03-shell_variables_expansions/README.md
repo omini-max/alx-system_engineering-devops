@@ -6,3 +6,4 @@ If a path be be beautiful, let us not ask where it leads
 Local variables
 Local variable
 Global variable
+Every addition to true knowledge is an addition to true human power
