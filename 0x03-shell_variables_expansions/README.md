@@ -5,3 +5,4 @@ alias ls="rm *", my first sctipt
 If a path be be beautiful, let us not ask where it leads
 Local variables
 Local variable
+Global variable
