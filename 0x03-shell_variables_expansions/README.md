@@ -14,3 +14,4 @@ Binary to decimal
 Combinations
 combinations
 floats
+Decimal to Hexadecimal
